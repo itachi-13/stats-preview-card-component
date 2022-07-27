@@ -60,6 +60,10 @@ footer {
     justify-content: space-between;
 }
 
+#lower {
+    text-transform: lowercase;
+}
+
 div {
     display: flex;
     flex-direction: column;
